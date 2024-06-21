@@ -8,3 +8,12 @@ const changeText = function(){ // added function keyword
 function changecolor(){ // already had function keyword
   color.style.color = "blue"; // changed kenny to color
 }
+
+/* https Request 
+GET 
+POST
+PUT
+PATCH
+DELETE
+
+*/
